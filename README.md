@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![leoboy](<messi1.jpg>
+  [![leoboy] <img src=messi.jpg>
  https://github.com/Richuser_b1 |  
 ----|
 [Its_me_leoboy](https://github.com/Richuser_b1)  |
