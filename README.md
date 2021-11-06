@@ -1,6 +1,6 @@
 <div align="center">
 
-## Its_me_Richuser
+## Its_me_leoboy
 
 <div align="center">
   <img src=richusher.jpg>
@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Richuser
+### Its_me_leoboy
 
 
 ### ⚠️ Warning! 
