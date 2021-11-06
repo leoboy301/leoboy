@@ -10,7 +10,7 @@ richusir
 /
 RICHUSER_B1
 Public
-forked from richusir/RICHUSER_B1
+forked from richusir/leoboy
 0
 1121
 Code
@@ -21,9 +21,9 @@ Wiki
 Security
 Insights
 Settings
-RICHUSER_B1/bot.js /
-@richusir
-richusir Create bot.js
+leoboy/bot.js /
+@leoboy
+leoboy Create bot.js
 Latest commit 21d64e4 on 9 Aug
  History
  11 contributors
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Richuser working perfectly 💘')
+            chalk.green.bold('leoboy working perfectly 💘')
         );
     });
     
