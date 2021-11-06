@@ -3,7 +3,7 @@
 ## Its_me_leoboy
 
 <div align="center">
-  <img src=richusher.jpg>
+  <img src=messi.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
