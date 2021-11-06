@@ -117,8 +117,8 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '919072702448@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('richu.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
+        if (!!message.mention && message.mention[0] == '918281794574@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('najnvannu.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
 const array = ['athulmachan','devarayoli','ebulljet','hiya hiya','judumonbgm','judumonmass','judumonrecord','judumonshambu','Mangalassery Neelakandan','najnvannu','nenban','ooohhh','pinnalah','porasyma','power','pronoob','sedlyf','sedlyf2','SIA','siiuuuuu','sonnetleo10','sonnetleo30Ringtone','velechil','sed']
 array.map( async (a) => {
@@ -146,10 +146,10 @@ if(pattern.test(message.message)){
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '919072702448@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('richu.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
+        if (!!message.mention && message.mention[0] == '918281794574@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('najnvannu.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['angene','beauty queen','bestie','bike','blackpink','bot','cr','exam','fight','football','friend','hacker','help','i love u','kozhi','Mishal','pani','peace','pever','poda','Richu','sad','sed','tentacion','thep','va','yadu','xxx','Bot','richu','bgm1','bgm2','bgm3','bgm4','bgm5','bgm6','bgm7','bgm8','bgm9','bgm10','bgm11','bgm12','bgm13','bgm14','bgm15','sad','scene','sed','she','ra','mu','hot','ta','Cr7','uyir','power','va','wow','se','no','nanba','sebin','messi','maman','pha','oi','cha','muth','kiss','dey','ga','player','king','kayari','aliya','nari','omban','Hii','Da','sad','nee','myre','mood','bg','chunk','ser','kundan','sir','My','myr','umbi','bot','poda','git','alive','owner','neymar','list','oii','on','one','vanne','vannu','set','Fuck','love','broke','ohoo','Bye','pne','left','don','onn','stop','setta','entry','muth','Hi','chaya']
+const array = ['athulmachan','devarayoli','ebulljet','hiya hiya','judumonbgm','judumonmass','judumonrecord','judumonshambu','Mangalassery Neelakandan','najnvannu','nenban','ooohhh','pinnalah','porasyma','power','pronoob','sedlyf','sedlyf2','SIA','siiuuuuu','sonnetleo10','sonnetleo30Ringtone','velechil','sed']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
